@@ -1,0 +1,27 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio Version 17
+VisualStudioVersion = 17.9.34728.123
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "iosStatusbarColor", "iosStatusbarColor\iosStatusbarColor.csproj", "{0B2DEB3B-9348-455E-9E91-BD2739721C1B}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{0B2DEB3B-9348-455E-9E91-BD2739721C1B}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{0B2DEB3B-9348-455E-9E91-BD2739721C1B}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{0B2DEB3B-9348-455E-9E91-BD2739721C1B}.Debug|Any CPU.Deploy.0 = Debug|Any CPU
+		{0B2DEB3B-9348-455E-9E91-BD2739721C1B}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{0B2DEB3B-9348-455E-9E91-BD2739721C1B}.Release|Any CPU.Build.0 = Release|Any CPU
+		{0B2DEB3B-9348-455E-9E91-BD2739721C1B}.Release|Any CPU.Deploy.0 = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+	GlobalSection(ExtensibilityGlobals) = postSolution
+		SolutionGuid = {8975AF02-78F5-47F4-BDDA-31259A8F5ADD}
+	EndGlobalSection
+EndGlobal
